@@ -4,11 +4,11 @@
 </p>
 
 <p align ="center">
-  <a  href="https://sanskar-kumar.github.io/Portfolio/" target="_blank">
+<!--   <a  href="https://sanskar-kumar.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>	
+  </a>	 -->
   <a  href="https://leetcode.com/u/ShashankShekhar564/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/41718343?s=280"/>
+    <img src="https://avatars.githubusercontent.com/u/41718343?s=28"/>
   </a>	
   <a href="mailto:shashankshekhar564@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
