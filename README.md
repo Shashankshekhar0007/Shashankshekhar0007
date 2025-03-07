@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>	 -->
   <a  href="https://leetcode.com/u/ShashankShekhar564/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/41718343?s=20" width="150"/>
+    <img src="https://avatars.githubusercontent.com/u/41718343?s=20" width="50"/>
   </a>	
   <a href="mailto:shashankshekhar564@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
