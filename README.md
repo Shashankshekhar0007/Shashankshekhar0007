@@ -167,7 +167,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanskar-kumar&theme=merko" /></a>
+   <a href="https://github.com/Shashankshekhar0007"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankshekhar0007&theme=merko" /></a>
   <br/>
 
 </details>
