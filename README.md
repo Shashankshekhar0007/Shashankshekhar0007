@@ -4,24 +4,24 @@
 </p>
 
 <p align ="center">
-  <a  href="https://sanskar-kumar.github.io/Portfolio/" target="_blank">
+<!--   <a  href="https://sanskar-kumar.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>	
-  <a href="mailto:sanskarkumar0106@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  </a>	 -->
+  <a href="mailto:shashankshekhar564@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/sanskarkumar" target="_blank">
+   <a href="https://www.linkedin.com/in/shashank-shekhar-2bb9a1250/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
   </a>  
-  <a href="https://twitter.com/Sanskar0106" target="_blank">
+  <a href="https://x.com/Shashank8707" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </p>
 
 
-<p >A Final Year Computer Science Undergraduate at National Institute of Technology Delhi who is a passionate Programmer , Full Stack Web Developer and ML Enthusiast.
+<p >A Pre-Final Year Electrical Engineering Undergraduate at National Institute of Technology Delhi who is a passionate Programmer , Full Stack Web Developer and Deep Learning Enthusiast.
 </p>
 
 
