@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>	 -->
   <a  href="https://leetcode.com/u/ShashankShekhar564/" target="_blank">
-    <img src="https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F41718343%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FLeetCode-OpenSource&docid=waGjZgGEBudkpM&tbnid=qSU0P0mtWiqPnM&vet=12ahUKEwi_9ZDUy_iLAxUWSGwGHf-cLPsQM3oECB0QAA..i&w=280&h=280&hcb=2&ved=2ahUKEwi_9ZDUy_iLAxUWSGwGHf-cLPsQM3oECB0QAA/>
+    <img src="https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F41718343%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FLeetCode-OpenSource&docid=waGjZgGEBudkpM&tbnid=qSU0P0mtWiqPnM&vet=12ahUKEwi_9ZDUy_iLAxUWSGwGHf-cLPsQM3oECB0QAA..i&w=280&h=280&hcb=2&ved=2ahUKEwi_9ZDUy_iLAxUWSGwGHf-cLPsQM3oECB0QAA"/>
   </a>	
   <a href="mailto:shashankshekhar564@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
