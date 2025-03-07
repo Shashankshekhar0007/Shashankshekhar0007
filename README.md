@@ -175,7 +175,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskar-kumar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shashankshekhar0007&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
 
