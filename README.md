@@ -113,25 +113,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=MovieBuff&theme=highcontrast" />
 
 </a>  
-<a href="https://github.com/sanskar-kumar/HostelWorld">
+<a href="https://github.com/Shashankshekhar0007/Harmonika">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=HostelWorld&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Harmonika&theme=highcontrast" />
 
 </a> 
-<a href="https://github.com/sanskar-kumar/DigiNotes">
+<a href="https://github.com/Shashankshekhar0007/NeuroTalksIn">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=DigiNotes&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=NeuroTalksIn&theme=highcontrast" />
 
 </a> 
-<a href="https://github.com/sanskar-kumar/edYoda">
+<a href="https://github.com/Shashankshekhar0007/Quiz-app">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=edYoda&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Quiz-App&theme=highcontrast" />
 
 </a>
 <a href="https://github.com/sanskar-kumar/Simon">
