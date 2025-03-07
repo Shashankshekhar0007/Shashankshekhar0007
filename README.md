@@ -157,7 +157,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shashank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shashankshekhar0007&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
 <br/>
   &nbsp;
   </p>
@@ -167,7 +167,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Shashankshekhar0007"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankshekhar0007&theme=merko" /></a>
+   <a href="https://github.com/Shashankshekhar0007"><img alt="Shashank's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankshekhar0007&theme=merko" /></a>
   <br/>
 
 </details>
