@@ -134,14 +134,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Quiz-App&theme=highcontrast" />
 
 </a>
-<!-- <a href="https://github.com/sanskar-kumar/Simon">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Simon&theme=highcontrast" />
-
-</a> -->
-
 
 
 
