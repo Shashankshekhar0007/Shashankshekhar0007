@@ -99,7 +99,7 @@
 
 ## Projects
 
-<a href="https://github.com/sanskar-kumar/MistryHub">
+<a href="https://github.com/Shashankshekhar0007/MistryHub">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
