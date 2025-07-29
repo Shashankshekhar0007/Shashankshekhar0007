@@ -99,13 +99,27 @@
 
 ## Projects
 
-<a href="https://github.com/Shashankshekhar0007/MistryHub">
+<a href="https://github.com/Shashankshekhar0007/MoodGroove">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Mistryhub&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=MoodGroove&theme=highcontrast" />
 
-</a>  
+</a> 
+<a href="https://github.com/Shashankshekhar0007/InkShare-App">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=InkShare&theme=highcontrast" />
+
+</a> 
+<a href="https://github.com/Shashankshekhar0007/Grammar-Scoring-Engine-for-Voice-Samples-">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Grammar-Scoring-Engine-for-Voice-Samples-&theme=highcontrast" />
+
+</a>
 <a href="https://github.com/Shashankshekhar0007/MovieBuff">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -113,13 +127,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=MovieBuff&theme=highcontrast" />
 
 </a>  
-<a href="https://github.com/Shashankshekhar0007/Harmonika">
+<a href="https://github.com/Shashankshekhar0007/MistryHub">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Harmonika&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Mistryhub&theme=highcontrast" />
 
-</a> 
+</a>  
 <a href="https://github.com/Shashankshekhar0007/NeuroTalksIn">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -134,15 +148,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Quiz-App&theme=highcontrast" />
 
 </a>
-<a href="https://github.com/Shashankshekhar0007/Grammar-Scoring-Engine-for-Voice-Samples-">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar0007&repo=Grammar-Scoring-Engine-for-Voice-Samples-&theme=highcontrast" />
-
-</a>
-
-
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
